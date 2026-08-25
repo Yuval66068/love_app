@@ -1,0 +1,14 @@
+name: love_app
+description: A small cute Flutter web app (no external packages).
+publish_to: 'none'
+version: 0.0.1
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+# No dependencies: using only Flutter SDK
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
