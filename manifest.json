@@ -1,0 +1,9 @@
+{
+  "name": "Love App",
+  "short_name": "Love App",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffeaf0",
+  "theme_color": "#ffb6d5",
+  "description": "A romantic Flutter app for Web"
+}
