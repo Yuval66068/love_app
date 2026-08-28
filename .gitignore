@@ -12,3 +12,11 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+
+# Secrets and environment files
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.jks
