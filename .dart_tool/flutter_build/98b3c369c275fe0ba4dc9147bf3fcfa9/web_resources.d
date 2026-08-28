@@ -1,1 +1,0 @@
-:  C:\\Users\\Owner\\Desktop\\Python\ Learning\\flutter\ dart\\love_app\\web\\index.html
